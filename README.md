@@ -13,7 +13,7 @@ This Power BI project visualizes sales performance across regions, categories, a
 - Excel
 
  🖼 Dashboard Preview
-![Dashboard Preview](myproject.PNG)
+![Dashboard Preview](myproject.png)
 
 👩‍💻 Author
 *Sajjad Noor*  
